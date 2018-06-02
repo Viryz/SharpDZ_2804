@@ -1,0 +1,12 @@
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\SharpDZ\SharpDZ\bin\Debug\SharpDZ.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\SharpDZ\SharpDZ\bin\Debug\SharpDZ.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\SharpDZ\SharpDZ\bin\Debug\SharpDZ.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\SharpDZ\SharpDZ\obj\Debug\SharpDZ.csprojResolveAssemblyReference.cache
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\SharpDZ\SharpDZ\obj\Debug\SharpDZ.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\SharpDZ\SharpDZ\obj\Debug\SharpDZ.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SharpDZ_2804\SharpDZ\SharpDZ\bin\Debug\SharpDZ.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SharpDZ_2804\SharpDZ\SharpDZ\obj\Debug\SharpDZ.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SharpDZ_2804\SharpDZ\SharpDZ\obj\Debug\SharpDZ.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SharpDZ_2804\SharpDZ\SharpDZ\bin\Debug\SharpDZ.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SharpDZ_2804\SharpDZ\SharpDZ\bin\Debug\SharpDZ.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SharpDZ_2804\SharpDZ\SharpDZ\obj\Debug\SharpDZ.csprojResolveAssemblyReference.cache
